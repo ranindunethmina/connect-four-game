@@ -16,5 +16,5 @@ In case if you have any doubts regarding the assignment please make sure to clar
 
 
 ### License
-Copyright © 2023 Ranindu Nethmina. All rights reserved <br>
-This project is licensed under the [MIT](LICENSE.txt) License.
+Copyright © 2024 Ranindu Nethmina. All rights reserved <br>
+This project is licensed under the MIT License.
